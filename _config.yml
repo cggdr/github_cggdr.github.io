@@ -14,10 +14,9 @@ description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活�
 keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
-
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
+repository: github_cggdr/github_cggdr.github.io
+github_url: https://github.com/github_cggdr
+url: https://github_cggdr.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
